@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background: url('image/telegram_logo_with_scattered_pile_icons_background_176841_94.avif')no-repeat center center/ cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.download{
+    text-align:center ;
+    color:  white;
+    background-color: greenyellow;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.download h1{
+    font-size: 52px;
+    margin-bottom: 20px;
+    color: red;
+    
+}
